@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\monster\\desktop\\dogusbootcamp\\1.gun\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\monster\\desktop\\dogusbootcamp\\1.gun\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\monster\\desktop\\dogusbootcamp\\1.gun\\winformsapp1\\winformsapp1\\solid\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\solid\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\monster\\desktop\\dogusbootcamp\\1.gun\\winformsapp1\\winformsapp1\\solid\\bitcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\solid\\bitcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\monster\\desktop\\dogusbootcamp\\1.gun\\winformsapp1\\winformsapp1\\solid\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\solid\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\monster\\desktop\\dogusbootcamp\\1.gun\\winformsapp1\\winformsapp1\\solid\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\solid\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\monster\\desktop\\dogusbootcamp\\1.gun\\winformsapp1\\winformsapp1\\solid\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\solid\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\monster\\desktop\\dogusbootcamp\\1.gun\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\monster\\desktop\\dogusbootcamp\\1.gun\\winformsapp1\\winformsapp1\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD63652-47AB-4B3A-B125-0586277547C6}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwF4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:44:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\SOLID\\Payment.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SOLID\\Payment.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\SOLID\\Payment.cs",
+              "RelativeToolTip": "WinFormsApp1\\SOLID\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:44:22.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\SOLID\\PaymentFactory.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SOLID\\PaymentFactory.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\SOLID\\PaymentFactory.cs",
+              "RelativeToolTip": "WinFormsApp1\\SOLID\\PaymentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:43:59.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\IPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\IPaymentMethod.cs",
+              "RelativeToolTip": "WinFormsApp1\\IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:43:37.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bitcoin.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\SOLID\\Bitcoin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SOLID\\Bitcoin.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\SOLID\\Bitcoin.cs",
+              "RelativeToolTip": "WinFormsApp1\\SOLID\\Bitcoin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:43:05.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cash.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\SOLID\\Cash.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SOLID\\Cash.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\SOLID\\Cash.cs",
+              "RelativeToolTip": "WinFormsApp1\\SOLID\\Cash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:42:47.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:41:17.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\SOLID\\CreditCard.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SOLID\\CreditCard.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\SOLID\\CreditCard.cs",
+              "RelativeToolTip": "WinFormsApp1\\SOLID\\CreditCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:41:56.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\dogusbootcamp\\1.gun\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:34:27.36Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
